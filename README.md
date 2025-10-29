@@ -72,9 +72,3 @@ Responses are JSON with `result` on success or `error` on failure.
 ## Troubleshooting
 - If the app prints a warning about `OPENAI_API_KEY` being a placeholder, replace it with a real key in `.env` or set the env var.
 - If you see `ModuleNotFoundError: No module named 'dotenv'`, run `pip install python-dotenv` or `pip install -r requirements.txt`.
-
-## Contributing
-Contributions welcome — open a PR with feature requests or fixes.
-
-## License
-This project does not include an explicit license file. Add a LICENSE if you want to set terms.
